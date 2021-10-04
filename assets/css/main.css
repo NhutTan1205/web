@@ -1,0 +1,67 @@
+#khung{
+    height: 150px;
+    width: 100%;
+    background-color: black;
+    position: fixed;
+}
+.noidung{
+    color: white;
+    font-size: 50px;
+    margin-left: 33%;
+    position: relative;
+    margin-top: 2.7%;
+    font-family: arial;
+}
+.mining{
+    width: 50%;
+    height: 590px;
+    background-color: #FF8C00;
+    position: fixed;
+    bottom: 0;
+}
+.crypto{
+    width: 50%;
+    height: 590px;
+    background-color: green;
+    margin-left: 50%;
+    position: fixed;
+    bottom: 0;
+}
+.word{
+    font-size: 75px;
+    text-align:center;
+    position: relative;
+    top: 35%;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+    text-shadow: black 0.08em 0.07em 0.025em;
+}
+.hinh{
+    height: 200px;
+    width: 300px;
+    position: relative;
+    left: 29%;
+    top: 165px;
+}
+.word2{
+    font-size: 70px;
+    text-align:center;
+    position: relative;
+    top: 23%;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+    text-shadow: black 0.08em 0.07em 0.025em;
+}
+.hinh2{
+    width: 180px;
+    height: 180px;
+    position: relative;
+    left: 38%;
+    top: 25%;
+}
+.mining:hover{
+    background-color: yellow;  
+}
+.crypto:hover{
+    background-color: greenyellow;
+}

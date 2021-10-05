@@ -1,6 +1,38 @@
 h1{
     color: red;
 }
-.col-md-4{
-    width: 80%;
+.baivietmoi{
+    width: 125px;
+    height: 35px;
+    background-color: red;
+    text-align: center;
+    line-height: 35px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    margin-left: 14%;
+}
+.gach{
+    margin-left: 13.0%;
+    background-color: red;
+}
+.row{
+    margin-left: 13%;
+    margin-top: 10px;
+}
+.tomtat1{
+    width: 50%;
+    font-size: 16px;
+    color: black;
+}
+.tieude1{
+    font-size: 20px;
+    color: black;
+}
+.tomtat1:hover{
+    color: red;
+}
+.hinh1{
+    width: 250px;
+    height: 50px;
 }
